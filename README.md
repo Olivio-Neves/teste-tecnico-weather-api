@@ -116,21 +116,9 @@ O uso do Docker garante que o projeto possa ser executado de forma consistente e
 
 ## Demonstração da Aplicação
 
+
 ### Ambiente Docker em execução
 
-<<<<<<< HEAD
-Ambiente Docker em execução   
-![Docker em execução](docs/images/docker-up.png)
-
-Containers ativos
-![Docker PS](docs/images/docker-ps.png)
-
-Busca e armazenamento de dados climáticos
-![POST Weather](docs/images/postman-fetch.png)
-
-Consulta dos dados armazenados
-![GET Weather](docs/images/postman-list.png)
-=======
 ![Docker em execução](docs/images/docker-up.png)
 
 ### Containers ativos
@@ -144,4 +132,3 @@ Consulta dos dados armazenados
 ### Consulta dos dados armazenados
 
 ![GET Weather](docs/images/postman-list.png)
->>>>>>> a25f579 (docs: corrige renderização das imagens no README)
