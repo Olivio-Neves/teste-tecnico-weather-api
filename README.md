@@ -53,7 +53,7 @@ package.json
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_PROJETO>
-
+```
 2. Configuração das variáveis de ambiente
 
 Crie um arquivo .env na raiz do projeto com base no arquivo .env.example e preencha as variáveis necessárias, incluindo as credenciais do banco de dados e a chave da API da OpenWeather.
