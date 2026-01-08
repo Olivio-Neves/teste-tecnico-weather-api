@@ -65,12 +65,9 @@ Com o Docker e o Docker Compose instalados, execute o comando abaixo na raiz do 
 docker compose up --build
 
 Esse processo irá:
-
-    Construir a imagem da aplicação
-
-    Criar e inicializar o banco de dados PostgreSQL
-
-    Subir a API já conectada ao banco
+- Construir a imagem da aplicação
+- Criar e inicializar o banco de dados PostgreSQL
+- Subir a API já conectada ao banco
 
 Após a inicialização, a aplicação estará disponível em:
 
@@ -97,16 +94,11 @@ O projeto utiliza PostgreSQL como banco de dados relacional.
 A estrutura da tabela é criada automaticamente na inicialização da aplicação por meio do Sequelize.
 
 Os dados armazenados incluem:
-
-    Cidade
-
-    Temperatura
-
-    Umidade
-
-    Descrição do clima
-
-    Data da coleta
+- Cidade
+- Temperatura
+- Umidade
+- Descrição do clima
+- Data da coleta
 
 Observações importantes:
 
